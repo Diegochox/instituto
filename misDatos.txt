@@ -1,0 +1,7 @@
+Nombre y apellido:aguirre diego
+Formacion
+secundario:si
+terciario:no
+datos de contacto:
+correo:diegoale@hot.com
+telefono:362456
